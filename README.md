@@ -1,4 +1,4 @@
-# Imersao_IA_Google
+# Imersao IA Gemini Google - Alura
 Imersão IA Gemini - Alura - Técnicas de Prompt e ChatBot com Google AI Studio e Google API
 
 ### Imersão IA [Guia de Mergulho]
