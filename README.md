@@ -16,11 +16,14 @@ https://aistudio.google.com/app/settings
 ### Get API Key
 https://aistudio.google.com/app/apikey
 
+### Colab Google
+https://colab.research.google.com/
+
 ### CodePen
 https://codepen.io/pen/
 
 ### Para se aprofundar [tópicos]
-- (Google Gemini e Imersão Inteligência Artificial | Hipsters Ponto Tech #407)[https://www.hipsters.tech/google-gemini-e-imersao-inteligencia-artificial-hipsters-ponto-tech-407/]
+- Google Gemini e Imersão Inteligência Artificial[https://www.hipsters.tech/google-gemini-e-imersao-inteligencia-artificial-hipsters-ponto-tech-407/]
 - O que é o Google Gemini
 - O que é IA generativa?
 - Como criar uma Inteligência Artificial?
