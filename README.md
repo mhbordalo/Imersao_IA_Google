@@ -1,8 +1,17 @@
 # Imersao IA Gemini Google - Alura
 Imersão IA Gemini - Alura - Técnicas de Prompt e ChatBot com Google AI Studio e Google API
+- [Imersão IA - Guia de Mergulho](https://grupoalura.notion.site/Imers-o-IA-Guia-de-Mergulho-41ae5fadd8fd47899167a115e96244d9)
+
+### Chatbot com a Gemini API pelo Google Colab
+- [Guia de início rápido na API Gemini](https://ai.google.dev/gemini-api/docs/quickstart?hl=pt-br)
+
+### Sistema de buscas semânticas por meio de embeddings e do Google API
+Construir uma LLM (Large Language Model) para acessar documentos e criar um embedding pelo Google Colab.
+- [Gemini API: Embeddings Quickstart](https://colab.research.google.com/github/google-gemini/cookbook/blob/main/quickstarts/Embeddings.ipynb)
+- [Guia de Embeddings](https://ai.google.dev/gemini-api/docs/embeddings?hl=pt-br)
+- [Task Types (Tipos de Tarefas)](https://ai.google.dev/gemini-api/tutorials/document_search?hl=pt-br#api_changes_to_embeddings_with_model_embedding-001)
 
 ### Links úteis:
-- [Imersão IA - Guia de Mergulho](https://grupoalura.notion.site/Imers-o-IA-Guia-de-Mergulho-41ae5fadd8fd47899167a115e96244d9)
 - [Google Gemini](https://gemini.google.com/app)
 - [Google AI Studio](https://aistudio.google.com/app/settings)
 - [Get API Key](https://aistudio.google.com/app/apikey)
@@ -11,12 +20,6 @@ Imersão IA Gemini - Alura - Técnicas de Prompt e ChatBot com Google AI Studio 
 - [Design de prompts do Google](https://ai.google.dev/gemini-api/docs/prompting-strategies?hl=pt-br)
 - [Discord - Imersão IA](https://discord.com/channels/1228404913705451612/1228404914380738631)
 - [Galeria de prompts do Google AI Studio](https://ai.google.dev/examples?hl=pt-br)
-
-### Sistema de buscas semânticas por meio de embeddings e do Google API
-Construir uma LLM (Large Language Model) para acessar documentos e criar um embedding pelo Google Colab.
-- [Gemini API: Embeddings Quickstart](https://colab.research.google.com/github/google-gemini/cookbook/blob/main/quickstarts/Embeddings.ipynb)
-- [Guia de Embeddings](https://ai.google.dev/gemini-api/docs/embeddings?hl=pt-br)
-- [Task Types (Tipos de Tarefas)](https://ai.google.dev/gemini-api/tutorials/document_search?hl=pt-br#api_changes_to_embeddings_with_model_embedding-001)
 
 ### Para se aprofundar:
 - [Google Gemini e Imersão Inteligência Artificial](https://www.hipsters.tech/google-gemini-e-imersao-inteligencia-artificial-hipsters-ponto-tech-407/)
